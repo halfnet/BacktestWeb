@@ -1,0 +1,6 @@
+"Variables","Min","Max","Step","Enabled"
+"CS_Opinion_NA",2,2,1,FALSE
+"CS_TableOption",1,4,1,FALSE
+"TH_MA",5,7,1,FALSE
+"TH_MinWght",40,60,10,FALSE
+"OutPerformMultiple",3,4,1,TRUE

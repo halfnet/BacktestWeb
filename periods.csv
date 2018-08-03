@@ -1,0 +1,37 @@
+"Indices","Name","Start","End"
+"HPID","ALL",NA,NA
+"HPID","First EU Bull Market",1994-12-31,2000-03-31
+"HPID","First EU Bear Market",2000-03-31,2002-09-30
+"HPID","Second EU Bull Market",2002-09-30,2007-06-30
+"HPID","Second EU Bear Market",2007-06-30,2008-12-31
+"HPID","Third EU Bull Market",2008-12-31,2018-06-30
+"EMNS","ALL",NA,NA
+"EMNS","First EU Bull Market",1994-12-31,2000-03-31
+"EMNS","First EU Bear Market",2000-03-31,2002-09-30
+"EMNS","Second EU Bull Market",2002-09-30,2007-06-30
+"EMNS","Second EU Bear Market",2007-06-30,2008-12-31
+"EMNS","Third EU Bull Market",2008-12-31,2018-06-30
+"EJ00","ALL",NA,NA
+"EJ00","First EU Bull Market",1994-12-31,2000-03-31
+"EJ00","First EU Bear Market",2000-03-31,2002-09-30
+"EJ00","Second EU Bull Market",2002-09-30,2007-06-30
+"EJ00","Second EU Bear Market",2007-06-30,2008-12-31
+"EJ00","Third EU Bull Market",2008-12-31,2018-06-30
+"HCNF","ALL",NA,NA
+"HCNF","First EU Bull Market",1994-12-31,2000-03-31
+"HCNF","First EU Bear Market",2000-03-31,2002-09-30
+"HCNF","Second EU Bull Market",2002-09-30,2007-06-30
+"HCNF","Second EU Bear Market",2007-06-30,2008-12-31
+"HCNF","Third EU Bull Market",2008-12-31,2018-06-30
+"CI00","ALL",NA,NA
+"CI00","First EU Bull Market",1994-12-31,2000-03-31
+"CI00","First EU Bear Market",2000-03-31,2002-09-30
+"CI00","Second EU Bull Market",2002-09-30,2007-06-30
+"CI00","Second EU Bear Market",2007-06-30,2008-12-31
+"CI00","Third EU Bull Market",2008-12-31,2018-06-30
+"H0NF","ALL",NA,NA
+"H0NF","First EU Bull Market",1994-12-31,2000-03-31
+"H0NF","First EU Bear Market",2000-03-31,2002-09-30
+"H0NF","Second EU Bull Market",2002-09-30,2007-06-30
+"H0NF","Second EU Bear Market",2007-06-30,2008-12-31
+"H0NF","Third EU Bull Market",2008-12-31,2018-06-30
