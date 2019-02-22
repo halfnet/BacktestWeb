@@ -1,7 +1,7 @@
-"Indices","Include","StartFrom","BuyDurationLow","BuyDurationHigh","HoldDurationLow","HoldDurationHigh","BuyASWLow","BuyASWHigh","HoldASWLow","HoldASWHigh"
-"HPID",TRUE,2002-11-30,1,1.05,1,1.05,1,1.05,1,1.05
-"EMNS",FALSE,1990-01-01,0.95,1,1,1.05,0.95,1,0.9,0.95
-"EJ00",FALSE,1990-01-01,0.95,1,1,1.05,0.95,1,0.9,0.95
-"HCNF",FALSE,1990-01-01,0.9,1.1,0.95,1.05,0.9,1.1,0.95,1.05
-"CI00",FALSE,1990-01-01,0.95,1,1,1.05,0.95,1,0.9,0.95
-"H0NF",FALSE,1990-01-01,0.9,1.1,0.95,1.05,0.9,1.1,0.95,1.05
+"Indices","Include","StartFrom","BuyDurationLow","BuyDurationHigh","HoldDurationLow","HoldDurationHigh","BuyASWLow","BuyASWHigh","HoldASWLow","HoldASWHigh","TransactionCost","StartCycle","CycleThreshold"
+"HPID",TRUE,1990-01-01,0.95,1.05,0.95,1.05,0.96,1.04,0.96,1.04,0.3,"bear",0.15
+"EMNS",TRUE,1990-01-01,0.95,1.05,0.95,1.05,0.96,1.04,0.96,1.04,0.3,"bear",0.15
+"EJ00",TRUE,1990-01-01,0.95,1.05,0.95,1.05,0.96,1.04,0.96,1.04,0.3,"bull",0.05
+"HCNF",TRUE,1990-01-01,0.95,1.05,0.95,1.05,0.96,1.04,0.96,1.04,0.3,"bear",0.15
+"CI00",TRUE,1990-01-01,0.95,1.05,0.95,1.05,0.96,1.04,0.96,1.04,0.1,"bull",0.05
+"H0NF",FALSE,1990-01-01,0.95,1.05,0.95,1.05,0.96,1.04,0.96,1.04,0.3,"bull",0.15

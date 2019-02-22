@@ -1,0 +1,16 @@
+"opinion","bucket","weight"
+"OutPerform","B1",3
+"OutPerform","B2",2
+"OutPerform","B3",2
+"OutPerform","B4",3
+"OutPerform","B5",3
+"Neutral","B1",2
+"Neutral","B2",1
+"Neutral","B3",1
+"Neutral","B4",1
+"Neutral","B5",2
+"UnderPerform","B1",0
+"UnderPerform","B2",0
+"UnderPerform","B3",0
+"UnderPerform","B4",0
+"UnderPerform","B5",0

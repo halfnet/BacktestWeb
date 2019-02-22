@@ -1,6 +1,13 @@
 "Variables","Min","Max","Step","Enabled"
-"CS_Opinion_NA",2,2,1,FALSE
+"CS_Opinion_NA",4,7,1,FALSE
 "CS_TableOption",1,4,1,FALSE
-"TH_MA",5,7,1,FALSE
-"TH_MinWght",40,60,10,FALSE
-"OutPerformMultiple",3,4,1,TRUE
+"TH_MA",4,6,1,FALSE
+"TH_MinWght",20,40,10,TRUE
+"OutPerformMultiple",2,4,1,FALSE
+"MaxWeightPerName",3,5,2,FALSE
+"TH_RangeDUR",3,5,1,FALSE
+"TH_RangeASW",1,5,1,FALSE
+"CS_MaxRange_Q",-270,-230,20,FALSE
+"CS_MaxRange_SA",-410,-350,30,FALSE
+"CS_AdjEntryDate_1S",80,100,10,FALSE
+"CS_AdjEntryDate_2S",150,190,20,FALSE
